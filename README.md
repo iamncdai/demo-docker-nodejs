@@ -18,7 +18,7 @@ git clone https://github.com/iamncdai/demo-docker-nodejs
 2. Navigate to the project directory:
 
 ```shell
-cd repository
+cd demo-docker-nodejs
 ```
 
 3. Start the application using Docker Compose:
