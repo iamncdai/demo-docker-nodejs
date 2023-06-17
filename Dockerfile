@@ -18,4 +18,4 @@ COPY ./app /app
 
 EXPOSE $PORT
 
-CMD ["yarn", "dev"]
+ENTRYPOINT ["yarn", "dev"]
